@@ -15,7 +15,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "favicon": "@PROJECT_PATH@/assets/images/2019-01-22-128x96.png",
+    "favicon": "@PROJECT_PATH@/assets/images/website-gallery-10-128x85-1.png",
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
@@ -31,7 +31,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "ELife Nail Spa is a place of elagants where you can achive all of your beaut needs. ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
