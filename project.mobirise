@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Wynn Nail Bar of Charlotte NC-clone",
+    "name": "ELife Nail Spa Greensboro NC",
     "currentPage": "index.html",
     "theme": {
       "name": "default",
@@ -21,9 +21,10 @@
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "gdpr": "",
     "siteUrl": "undefined",
-    "uniqCompNum": 15,
-    "versionPublish": "4.9.3",
-    "screenshot": "screenshot.png"
+    "uniqCompNum": 25,
+    "versionPublish": "4.10.8",
+    "screenshot": "screenshot.png",
+    "сanonical-url": ""
   },
   "pages": {
     "index.html": {
@@ -64,6 +65,14 @@
             },
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             }
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header1-4\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-1\">Services</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-1\">CONTACT</a></li>",
@@ -82,7 +91,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html#content5-8\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ELife Nail Spa</a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"#top\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ELife Nail Spa Greensboro NC</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-0"
         },
@@ -107,7 +116,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "ELife Nail Spa",
+          "title": "ELife Nail Spa<br>Greensboro NC",
           "text": "<b>ELife Nail Spa is a place of elagants where you can achive all of your beaut needs.&nbsp;</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
@@ -120,7 +129,13 @@
               "color": "#be9eb0"
             },
             "B": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            "H1": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             }
           }
         },
@@ -129,7 +144,9 @@
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center",
-              "color": "#fff"
+              "color": "#fff",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center",
@@ -140,7 +157,13 @@
             },
             ".mbr-article P": {
               "text-align": "center",
-              "font-size": "19px"
+              "font-size": "19px",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            ".btn": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             }
           },
           "_params": {
@@ -148,7 +171,7 @@
             "showMeta": false,
             "showCaption": "noCaption",
             "showText": true,
-            "showButton": false,
+            "showButton": true,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
@@ -165,9 +188,9 @@
             "overlayColor": "#28324e",
             "overlayOpacity": 0.2
           },
-          "title": "ELife Nail Spa",
-          "text": "<p>ELife Nail Spa beleives that healt is safety</p><p><br></p><p><br></p><p><b>&nbsp; &nbsp; Hours of Opporation&nbsp;</b></p><p>Mon\t9:30 am - 7:30 pm\t\n</p><p>Tue\t9:30 am - 7:30 pm\t\n</p><p>Wed\t9:30 am - 7:30 pm\t\n</p><p>Thu\t9:30 am - 7:30 pm\tOpen now\n</p><p>Fri\t9:00 am - 7:30 pm\t\n</p><p>Sat\t9:00 am - 7:30 pm\t\n</p><p>Sun\t12:00 pm - 6:00 pm&nbsp;</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "title": "ELife Nail Spa Greensboro NC",
+          "text": "<p>ELife Nail Spa is a place of elegance where you can achieve all of your beauty needs.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page1.html#header1-d\" data-toolbar=\"-mbrBtnMove\">SERVICES</a>",
           "_tags": [
             "Theme"
           ],
@@ -177,54 +200,189 @@
         },
         {
           "_params": {
-            "fullWidth": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "noGutter": true,
-            "showText": false,
-            "showBullets": true,
-            "bgColor": "#1abc9c",
-            "images": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/jennynailsspa-918x364.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/jennynailsspa-918x364-800x317.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/part0-1440x1080.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/part0-1440x1080-800x600.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/largeheader2-1917x765.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/largeheader2-1917x765-800x319.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/2019-01-22-1-600x450.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2019-01-22-1-600x450-600x450.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              }
-            ]
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": false,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "file:///C:/Users/CreativeJonesMedia/Desktop/GWUN%20NETWORK%20SITE//assets/images/mbr-2-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "articleLayout": false,
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/crw-0h-0a-cc-600x400.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "<a href=\"page1.html#msg-box5-l\">Nail Enhancement Services</a>",
+          "caption1": "<b>Radio vet Skylyn Hagins AKA Sky teamed up with Got What U Need Network to create the Mass Skyteria Podcast. The podcast focuses on politics, music, sports.. well just a wide range of topics. Click the button below to learn more.&nbsp;</b>",
+          "button1": "<a data-app-btn=\"true\" href=\"page1.html#header4-k\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>  ",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/c700x420-1-600x360.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "<a href=\"page1.html#msg-box3-k\">Waxing</a>",
+          "caption2": "<b>Erica Jones AKA Model E is new to the broadcasting scene but she has taken it by storm with her podcast. Model E and her friends have some of the best convos so click the button below to learn more.</b>",
+          "button2": "<a data-app-btn=\"true\" href=\"page2.html#header4-s\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/c700x420-600x360.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "<p><a href=\"page1.html#content4-n\">Natural Nail Services</a></p>",
+          "caption3": "<b>LaShon Jones AKA Tall Shon a radio vet started the Indie Process Podcast to talk with great artist and taste makers. He goes over everything to do with independent artist and their process of being apart of the music business. Click the button below to learn more.</b>",
+          "button3": "<a data-app-btn=\"true\" href=\"page3.html#header1-z\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "file:///C:/Users/CreativeJonesMedia/Desktop/GWUN%20NETWORK%20SITE//assets/images/tgl%208-1-600x518.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "The Green Light Podcast",
+          "caption4": "<b>Just 3 guys giving you our opinion... Pull Up</b>",
+          "button4": "<a data-app-btn=\"true\" href=\"page5.html#header4-1v\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>  ",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "file:///C:/Users/CreativeJonesMedia/Desktop/GWUN%20NETWORK%20SITE//assets/images/black%20mail%20show%20podcast%20logo-600x600.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "The Black Mail Podcast",
+          "caption5": "<b>The Black Mail Podcast is&nbsp;</b>",
+          "button5": "<a data-app-btn=\"true\" href=\"page6.html#header4-2h\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "gallery1",
-          "_anchor": "gallery1-9"
+          "_name": "features1",
+          "_styles": {
+            "B": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#eb6b56"
+            },
+            ".mbr-section__col .mbr-header__text": {
+              "color": "#1abc9c",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "font-size": "25px"
+            },
+            ".mbr-section__col .mbr-header__text P": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            }
+          },
+          "_anchor": "features1-o"
         },
         {
           "_params": {
@@ -246,7 +404,7 @@
             }
           },
           "text1": "<b>ADDRESS<br></b>4526 W Wendover Ave\n<br>Ste 10\n<br>Greensboro, NC 27409<br><br><b>\nCONTACTS</b><br><a href=\"https://www.yelp.com/biz/elife-nail-spa-greensboro\" target=\"_blank\"><b>YELP</b></a><br><b>Phone: +1&nbsp;</b>(336) 632-8788<b><br></b><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-info\" href=\"http://www.creativejmllc.com/\" target=\"_blank\">Website builder</a></li><li><br></li></ul>",
+          "text2": "<font color=\"#ffffff\"><b>&nbsp; &nbsp; Hours of Opporation \r</b></font><div><font color=\"#ffffff\"><b>\r</b></font></div><div><font color=\"#ffffff\"><b>Mon\t9:30 am - 7:30 pm\r</b></font><b></b></div><div><font color=\"#ffffff\"><b>Tue\t9:30 am - 7:30 pm\r</b></font></div><div><font color=\"#ffffff\"><b>Wed\t9:30 am - 7:30 pm\r</b></font><b></b></div><div><font color=\"#ffffff\"><b>Thu\t9:30 am - 7:30 pm\tOpen now\r</b></font></div><div><font color=\"#ffffff\"><b>Fri\t9:00 am - 7:30 pm\r</b></font><b></b></div><div><font color=\"#ffffff\"><b>Sat\t9:00 am - 7:30 pm\r</b></font></div><div><font color=\"#ffffff\"><b>Sun\t12:00 pm - 6:00 pm&nbsp;</b></font></div>",
           "_tags": [
             "Theme"
           ],
@@ -257,7 +415,13 @@
               "color": "#ffffff"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            "DIV": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             }
           }
         },
@@ -274,7 +438,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019 ELife Nail Spa - Website Created by <a href=\"http://www.creativejmllc.com/\" target=\"_blank\">Creative Jones Media, LLC</a>",
+          "text": "Copyright (c) 2019 ELife Nail Spa Greensboro NC - Website Created by <a href=\"http://www.creativejmllc.com/\" target=\"_blank\">Creative Jones Media, LLC</a>",
           "_tags": [
             "Theme"
           ],
@@ -323,6 +487,14 @@
             },
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             }
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header1-4\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-1\">Services</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-1\">CONTACT</a></li>",
@@ -341,7 +513,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html#content5-8\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ELife Nail Spa</a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"#top\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ELife Nail Spa Greensboro NC</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-a"
         },
@@ -349,7 +521,7 @@
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButtons": false,
             "showArrow": true,
             "contentAlign": "right",
@@ -373,15 +545,32 @@
             "Theme"
           ],
           "_name": "header1",
-          "_anchor": "header1-d"
+          "_anchor": "header1-d",
+          "_styles": {
+            "H1": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            }
+          }
         },
         {
           "_styles": {
             ".mbr-header .mbr-header__text": {
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center"
+            },
+            ".mbr-article": {
+              "color": "#000000"
+            },
+            ".mbr-article P": {
+              "text-align": "left",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "19px"
             }
           },
           "_params": {
@@ -390,8 +579,8 @@
             "showCaption": "noCaption",
             "showText": true,
             "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -406,15 +595,260 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "MODERN STYLES",
+          "title": "OUR SERVICES",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "text": "<p><b>Sanitation is our Priority * We use plastic liners for all pedicures. * Each Customer receives a new liner, nail file and buffer. * If you are diabetic or have any other medical condition(s), please advise your technician so that we can serve you with your need in mind.&nbsp;</b></p><p><br></p><p><b>Complimentary Drinks Soft Drink: Water, Orange Juice, Coke/ Diet Coke, Sprite, Orange Soda, Dr. Pepper, Green Tea, Ginger Ale Wine List: Moscato, Sangria, Chardonnay, Merlot, Cabernet Sauvignon, White Zinfandel, Champagne, Pinot Grigio Beer: Bud lite, Corona, Blue Moon, Yengling, Heineken (Limit one Drink per Customer per Visit)</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-e"
+          "_anchor": "msg-box3-k"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#000000",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#000000"
+            },
+            ".mbr-article DIV": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "19px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x937.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Pedicure Services",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "\n<div><b>Spa Pedicure $30 \n</b></div><div><b>Deluxe Pedicure $42) \n</b></div><div><b>Ultimate Pedicure $47 \n</b></div><div><b>Allure Pedicure $57 \n</b></div><div><b>Extremely Pedicure (with Hot Stone) $67</b></div><div><br></div><div> \n</div><div><b>(Come in for more information)</b></div>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-l"
+        },
+        {
+          "_inherit": "features1",
+          "_params": {
+            "showHeader": true,
+            "showSubheader": false,
+            "showImages": false,
+            "showTitles": false,
+            "showCaptions": true,
+            "showButtons": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "columns": "5",
+            "bgImageRadio": false,
+            "bgImage": "file:///C:/Users/CreativeJonesMedia/AppData/Local/Mobirise.com/Mobirise/projects/project-2019-08-08_063925/assets/images/allur7-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#1abc9c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "headerAlign": "left",
+          "header": "OTHER SERVICES&nbsp;",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "images/bootstrap.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "",
+          "caption1": "<b>Spa Manicure\t$17\n<br>Gel Manicure\t$35\n<br>French Spa Manicure\t$22\n<br>Buffing Spa Manicure\t$22\n<br>Deluxe Manciure (with Paraffin)\t$27&nbsp;</b><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "images/responsive.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "",
+          "caption2": "<b>Polish Change (Hands/ French) $10/$12\n<br>Polish Change (Feet/French)\t$12/$15&nbsp;<br>Design Per Finger/10 Fingers\t$5/$20 and Up\n<br>Gel Polish Only $25 (Take off old gel polish $5)<br>Gel Polish Removal Only $10</b><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "images/google-fonts.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "",
+          "caption3": "<b>Kid Manicure (Under 10 Yrs)\t$12\n<br>Kid Pedicure (Under 10 Yrs)\t$22\n<br>Acrylic FullSet\t$32\n<br>Acrylic Fill\t$22\n<br>Powder Gel FullSet\t$40\n<br>Powder Gel Fill\t$30&nbsp;</b><br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "",
+          "caption4": "<b>UV Gel FullSet\t$50\t\t\n<br>UV Gel Fill\t$35\t\t\n<br>SNS FullSet\t$50\t\t\n<br>* Add Tips\t+$5\t\t\n<br>* Add French or American\t+$5\t\t\n<br>*\tAdd Special Shape (Coffin/ Stiletto)+$5\n<br>*\tAdd Gel Polish / Mood or Cat Eyes / Chrome +$10 / $15 / $20 Eyelash Extensions (Knott/Individual)\t$45 / $120&nbsp;</b><br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "",
+          "caption5": "<b>- Waxing -<br>Eyebrows $12\n<br>Lips $10\n<br>Chin $10\n<br>Full Face $40+\n<br>Under Arm $20+\n<br>Brazilian $45+\n<br>Bikini $30up&nbsp;<br>Half Arm $20\n<br>Full Arm $50&nbsp;<br>Half Leg $35+<br>Full Leg $55<br>Back $50\n<br>Chest $45<br>Back and Chest $70<br>Side Burns $15&nbsp;</b><br>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_name": "content4",
+          "_styles": {
+            "P": {
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "color": "#000000"
+            },
+            ".mbr-section__col .mbr-header__text": {
+              "font-size": "46px",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
+            },
+            ".mbr-section-title .mbr-header__text": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "36px"
+            },
+            "B": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            }
+          },
+          "_anchor": "content4-n"
         },
         {
           "_params": {
@@ -436,7 +870,7 @@
             }
           },
           "text1": "<b>ADDRESS<br></b>4526 W Wendover Ave\n<br>Ste 10\n<br>Greensboro, NC 27409<br><br><b>\nCONTACTS</b><br><a href=\"https://www.yelp.com/biz/elife-nail-spa-greensboro\" target=\"_blank\"><b>YELP</b></a><br><b>Phone: +1&nbsp;</b>(336) 632-8788<b><br></b><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-info\" href=\"http://www.creativejmllc.com/\" target=\"_blank\">Website builder</a></li><li><br></li></ul>",
+          "text2": "<font color=\"#ffffff\"><b>&nbsp; &nbsp; Hours of Opporation \r</b></font><div><font color=\"#ffffff\"><b>\r</b></font></div><div><font color=\"#ffffff\"><b>Mon\t9:30 am - 7:30 pm\r</b></font><b></b></div><div><font color=\"#ffffff\"><b>Tue\t9:30 am - 7:30 pm\r</b></font></div><div><font color=\"#ffffff\"><b>Wed\t9:30 am - 7:30 pm\r</b></font><b></b></div><div><font color=\"#ffffff\"><b>Thu\t9:30 am - 7:30 pm\tOpen now\r</b></font></div><div><font color=\"#ffffff\"><b>Fri\t9:00 am - 7:30 pm\r</b></font><b></b></div><div><font color=\"#ffffff\"><b>Sat\t9:00 am - 7:30 pm\r</b></font></div><div><font color=\"#ffffff\"><b>Sun\t12:00 pm - 6:00 pm&nbsp;</b></font></div>",
           "_tags": [
             "Theme"
           ],
@@ -446,7 +880,13 @@
               "color": "#ffffff"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            "DIV": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             }
           },
           "_anchor": "contacts2-b"
@@ -464,7 +904,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019 ELife Nail Spa - Website Created by <a href=\"http://www.creativejmllc.com/\" target=\"_blank\">Creative Jones Media, LLC</a>",
+          "text": "Copyright (c) 2019 ELife Nail Spa Greensboro NC - Website Created by <a href=\"http://www.creativejmllc.com/\" target=\"_blank\">Creative Jones Media, LLC</a>",
           "_tags": [
             "Theme"
           ],
@@ -475,6 +915,260 @@
             }
           },
           "_anchor": "footer1-c"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "meta_descr": "Site Builder Description",
+        "title": "Gallery",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#1abc9c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#1abc9c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#1abc9c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header1-4\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-1\">Services</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-1\">CONTACT</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"#top\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ELife Nail Spa Greensboro NC</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-f"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/website-gallery-4-1440x960.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Gallery",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-i",
+          "_styles": {
+            "H1": {
+              "color": "#1abc9c",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/website-gallery-18-1379x919.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/website-gallery-18-1379x919-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/website-gallery-2-1440x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/website-gallery-2-1440x960-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/website-gallery-8-1440x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/website-gallery-8-1440x960-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/website-gallery-11-1440x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/website-gallery-11-1440x960-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/website-gallery-16-1440x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/website-gallery-16-1440x960-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/website-gallery-24-1440x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/website-gallery-24-1440x960-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/website-gallery-22-1258x838.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/website-gallery-22-1258x838-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/website-gallery-8-1440x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/website-gallery-8-1440x960-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-j"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1277.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": "0.5",
+            "googleMap": {
+              "address": "4526 W Wendover Ave\nSte 10\nGreensboro, NC 27409",
+              "placeId": "EjIxMCwgNDUyNiBXIFdlbmRvdmVyIEF2ZSwgR3JlZW5zYm9ybywgTkMgMjc0MDksIFVTQSIeGhwKFgoUChIJ5f7lOSgbU4gRWwK6L2iycIcSAjEw",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<b>ADDRESS<br></b>4526 W Wendover Ave\n<br>Ste 10\n<br>Greensboro, NC 27409<br><br><b>\nCONTACTS</b><br><a href=\"https://www.yelp.com/biz/elife-nail-spa-greensboro\" target=\"_blank\"><b>YELP</b></a><br><b>Phone: +1&nbsp;</b>(336) 632-8788<b><br></b><br>",
+          "text2": "<font color=\"#ffffff\"><b>&nbsp; &nbsp; Hours of Opporation \r</b></font><div><font color=\"#ffffff\"><b>\r</b></font></div><div><font color=\"#ffffff\"><b>Mon\t9:30 am - 7:30 pm\r</b></font><b></b></div><div><font color=\"#ffffff\"><b>Tue\t9:30 am - 7:30 pm\r</b></font></div><div><font color=\"#ffffff\"><b>Wed\t9:30 am - 7:30 pm\r</b></font><b></b></div><div><font color=\"#ffffff\"><b>Thu\t9:30 am - 7:30 pm\tOpen now\r</b></font></div><div><font color=\"#ffffff\"><b>Fri\t9:00 am - 7:30 pm\r</b></font><b></b></div><div><font color=\"#ffffff\"><b>Sat\t9:00 am - 7:30 pm\r</b></font></div><div><font color=\"#ffffff\"><b>Sun\t12:00 pm - 6:00 pm&nbsp;</b></font></div>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "B": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            "DIV": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            }
+          },
+          "_anchor": "contacts2-g"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#1abc9c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 ELife Nail Spa Greensboro NC - Website Created by <a href=\"http://www.creativejmllc.com/\" target=\"_blank\">Creative Jones Media, LLC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-h"
         }
       ]
     }

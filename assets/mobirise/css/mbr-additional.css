@@ -1,3 +1,16 @@
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
+
+
+
+
+
+
+
+
+
+
+
 #ext_menu-0 .mbr-brand__name {
   font-size: 16px;
 }
@@ -10,15 +23,26 @@
 #ext_menu-0 .mbr-navbar__hamburger {
   color: #ffffff;
 }
+#ext_menu-0 .mbr-brand__name a {
+  font-family: 'Slabo 27px', serif;
+}
+#ext_menu-0 .mbr-navbar__items a {
+  font-family: 'Slabo 27px', serif;
+}
 #header1-4 P {
   color: #be9eb0;
 }
 #header1-4 B {
   color: #ffffff;
+  font-family: 'Slabo 27px', serif;
+}
+#header1-4 H1 {
+  font-family: 'Slabo 27px', serif;
 }
 #content5-8 .mbr-header .mbr-header__text {
   text-align: center;
   color: #fff;
+  font-family: 'Slabo 27px', serif;
 }
 #content5-8 .mbr-header .mbr-header__subtext {
   text-align: center;
@@ -30,16 +54,51 @@
 #content5-8 .mbr-article P {
   text-align: center;
   font-size: 19px;
+  font-family: 'Slabo 27px', serif;
+}
+#content5-8 .btn {
+  font-family: 'Slabo 27px', serif;
+}
+#features1-o B {
+  color: #ffffff;
+}
+#features1-o P {
+  color: #eb6b56;
+}
+#features1-o .mbr-section__col .mbr-header__text {
+  color: #1abc9c;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 25px;
+}
+#features1-o .mbr-section__col .mbr-header__text P {
+  font-family: 'Slabo 27px', serif;
 }
 #contacts2-1 B {
   color: #ffffff;
 }
 #contacts2-1 P {
   color: #ffffff;
+  font-family: 'Slabo 27px', serif;
+}
+#contacts2-1 DIV {
+  font-family: 'Slabo 27px', serif;
 }
 #footer1-3 P {
   color: #ffffff;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
 #ext_menu-a .mbr-brand__name {
   font-size: 16px;
 }
@@ -52,18 +111,109 @@
 #ext_menu-a .mbr-navbar__hamburger {
   color: #ffffff;
 }
-#msg-box3-e .mbr-header .mbr-header__text {
+#ext_menu-a .mbr-brand__name a {
+  font-family: 'Slabo 27px', serif;
+}
+#ext_menu-a .mbr-navbar__items a {
+  font-family: 'Slabo 27px', serif;
+}
+#header1-d H1 {
+  font-family: 'Slabo 27px', serif;
+}
+#msg-box3-k .mbr-header .mbr-header__text {
+  text-align: center;
+  font-family: 'Slabo 27px', serif;
+}
+#msg-box3-k .mbr-header .mbr-header__subtext {
   text-align: center;
 }
-#msg-box3-e .mbr-header .mbr-header__subtext {
-  text-align: center;
+#msg-box3-k .mbr-article {
+  color: #000000;
+}
+#msg-box3-k .mbr-article P {
+  text-align: left;
+  font-family: 'Slabo 27px', serif;
+  font-size: 19px;
+}
+#msg-box5-l .mbr-header__text {
+  color: #000000;
+  font-family: 'Slabo 27px', serif;
+}
+#msg-box5-l .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box5-l .mbr-article {
+  color: #000000;
+}
+#msg-box5-l .mbr-article DIV {
+  font-family: 'Slabo 27px', serif;
+  font-size: 19px;
+}
+#content4-n P {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  color: #000000;
+}
+#content4-n .mbr-section__col .mbr-header__text {
+  font-size: 46px;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+#content4-n .mbr-section-title .mbr-header__text {
+  font-family: 'Slabo 27px', serif;
+  font-size: 36px;
+}
+#content4-n B {
+  font-family: 'Slabo 27px', serif;
 }
 #contacts2-b B {
   color: #ffffff;
 }
 #contacts2-b P {
   color: #ffffff;
+  font-family: 'Slabo 27px', serif;
+}
+#contacts2-b DIV {
+  font-family: 'Slabo 27px', serif;
 }
 #footer1-c P {
+  color: #ffffff;
+}
+
+
+
+
+
+#ext_menu-f .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-f.mbr-navbar--stuck .mbr-navbar__section {
+  background: #1abc9c;
+}
+#ext_menu-f .mbr-navbar__section {
+  background: #1abc9c;
+}
+#ext_menu-f .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-f .mbr-brand__name a {
+  font-family: 'Slabo 27px', serif;
+}
+#ext_menu-f .mbr-navbar__items a {
+  font-family: 'Slabo 27px', serif;
+}
+#header4-i H1 {
+  color: #1abc9c;
+  font-family: 'Slabo 27px', serif;
+}
+#contacts2-g B {
+  color: #ffffff;
+}
+#contacts2-g P {
+  color: #ffffff;
+  font-family: 'Slabo 27px', serif;
+}
+#contacts2-g DIV {
+  font-family: 'Slabo 27px', serif;
+}
+#footer1-h P {
   color: #ffffff;
 }
